@@ -1,0 +1,9 @@
+food = "Pizza"
+is_delicious = true
+food = "Lasagna"
+num2 = 8
+num7 = 2
+quotient = num7 / num2
+songs = ["Tragedy", "Ghost", "Burn"]
+songs.shift
+food.length
